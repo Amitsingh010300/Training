@@ -1,1 +1,1 @@
-console.log("Hello world from Amit Singh Singh 2");
+console.log("Hello world ");
